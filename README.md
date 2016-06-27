@@ -1,2 +1,5 @@
-# Admiral-Ridi
-Dota 2 world
+# Hello
+I am Admiral Ridi.
+I like coding and playing games.
+
+I like Java,html and python.
